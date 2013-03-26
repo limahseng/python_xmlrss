@@ -1,0 +1,1 @@
+Examples to show how Python handles XML
